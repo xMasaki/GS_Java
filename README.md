@@ -27,10 +27,10 @@ O sistema também possuirá uma tela da missão de voo, onde conseguimos traçar
 O mapa também contém dados da situação atual da missão, como coordenadas, altitude de voo do drone, o horário que o drone deve decolar e pousar e os drones que estão ativos na missão. 
 
 ## Arquitetura da solução
-1- Os drones eles são a nossa fonte primária de dados responsáveis pela captação inicial de informação e imagens aéreas monitoradas.
-2- Dados fluem para o broker. Em seguida, temos o serviço de coleta, onde recebe, processa e roteia os dados brutos para os nossos sistemas de armazenamento e análise. Os dados coletados são armazenados no banco de dados. 
-3- Em sequência, o modelo de predição com machine learning entra em ação.
-4- Por fim, temos o serviço de dashboard com uma interface onde visualizamos todos os dados, permitindo o monitoramento em tempo real e análise aprofundada das informações.
+1- Os drones eles são a nossa fonte primária de dados responsáveis pela captação inicial de informação e imagens aéreas monitoradas.<br>
+2- Dados fluem para o broker. Em seguida, temos o serviço de coleta, onde recebe, processa e roteia os dados brutos para os nossos sistemas de armazenamento e análise. Os dados coletados são armazenados no banco de dados. <br>
+3- Em sequência, o modelo de predição com machine learning entra em ação.<br>
+4- Por fim, temos o serviço de dashboard com uma interface onde visualizamos todos os dados, permitindo o monitoramento em tempo real e análise aprofundada das informações.<br>
 
 ## Funcionalidades do sistema em Java
 O sistema foi desenvolvido com Java Spring Boot, realizando conexão com o banco de dados Oracle, possibilitando o usuário de armazenar e gerir os dados pelo próprio sistema. 
