@@ -1,8 +1,8 @@
 # Global Solution - Domain Driven Design Java
 ## Grupo 3M Tech
-Felipe Nakama | RM 552821
-Lucas Masaki | RM 553084
-Micael Azarias | 552699
+- Felipe Nakama | RM 552821
+- Lucas Masaki | RM 553084
+- Micael Azarias | 552699
 
 ## Desafio
 As Queimadas podem ser causadas por fatores naturais, como raios, atividades humanas, queimas controladas que saem do controle, fogueiras mal apagadas e até mesmo atos criminosos. Com o aumento das temperaturas globais e a ocorrência de secas prolongadas, a frequência e a intensidade dos incêndios florestais e das queimadas têm crescido, afetando significativamente o meio ambiente e a saúde pública. 
